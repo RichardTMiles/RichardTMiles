@@ -19,9 +19,7 @@ Property | Data
 
  . | . | .
 --- | --- | --- 
-![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richardtmiles&show_icons=true&theme=radical&include_all_commits=true) | 
-![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) |
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
+![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richardtmiles&show_icons=true&theme=radical&include_all_commits=true) | ![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) | <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
 
 
 **📫 How to Reach me:**
