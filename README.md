@@ -26,10 +26,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
-![Less Badge](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=for-the-badge)
-![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
-![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=000&style=for-the-badge)
-![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
+![Less Badge](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=fff&style=for-the-badge)
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff&style=for-the-badge)
+![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=000&style=for-the-badge)
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff&style=for-the-badge)
 
 
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
