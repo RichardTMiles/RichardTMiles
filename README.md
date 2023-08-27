@@ -38,8 +38,9 @@
 
 ![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
-
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles" alt="visitors"/>
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
+
