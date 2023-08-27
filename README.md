@@ -36,11 +36,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF727&lines=Wake+up+Neo...;The+Matrix+has+you...+;+Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.)](https://git.io/typing-svg)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
+
 ![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) 
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles" alt="visitors"/>
 </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
 
