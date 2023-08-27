@@ -1,11 +1,11 @@
 ## Here's what I can do!
 <!-- https://badges.pages.dev/ -->
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
-![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=fff&style=flat)
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff&style=for-the-badge)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=fff&style=for-the-badge)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=fff&style=for-the-badge)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=Python&logoColor=white)
