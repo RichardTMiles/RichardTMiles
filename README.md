@@ -1,4 +1,4 @@
-## Here's what I can do!
+## >> WHOAMI
 <!-- https://badges.pages.dev/ -->
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=fff&style=for-the-badge)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=fff&style=flat)
