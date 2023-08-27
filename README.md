@@ -1,5 +1,11 @@
 ## Here's what I can do!
-
+<!-- https://badges.pages.dev/ -->
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-68a063?style=flat&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat&logo=Python&logoColor=white)
@@ -20,9 +26,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-f06529?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Less Badge](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=for-the-badge)
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
+![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=000&style=for-the-badge)
+![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=for-the-badge)
 
 
-![](https://repository-images.githubusercontent.com/429643594/2c641a53-04f5-4941-8acd-ecf68a0e7121)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF727&lines=Wake+up+Neo...;The+Matrix+has+you...+;+Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo.)](https://git.io/typing-svg)
 
