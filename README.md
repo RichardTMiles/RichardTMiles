@@ -29,7 +29,6 @@
 ![Less Badge](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=fff&style=for-the-badge)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff&style=for-the-badge)
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=000&style=for-the-badge)
-![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff&style=for-the-badge)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
 
