@@ -34,6 +34,9 @@
 
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
+# [**View My LinkedIn](https://www.linkedin.com/in/richardtmiles/)
+# [**goto: miles.systems](https://miles.systems/)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
 
 ![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) 
