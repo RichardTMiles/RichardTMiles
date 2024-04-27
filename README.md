@@ -35,12 +35,19 @@
 
 Lead developer and team manager for multiple directed studies guided by top UNT Principal Lecturers. Former
 TA at Southern Methodist University Coding Bootcamp. Business Professional of America State Qualifier in
-website design. Past Vice President of the University of North Texas Triathlon Club. A Windows, Ubuntu,
+website design. Past Vice President of the University of North Texas Triathlon Club. 
+
+![IMG_0635](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/96137a15-9cf7-4ae1-a736-1343ba494cc4)
+
+A Windows, Ubuntu,
 FEDORA, RHEL, and MacOS power user + GCP / AWS cloud rockstar. PHP-SRC contributor, working on
 improving the PHP programming language from its C code internals. A LAMP (Linux, Apache, MySQL, PHP)
 veteran. Founder of www.CarbonORM.dev/, a multi-language library, to significantly speed up developer
 operations and data migrations. Over eight years of experience in application development and server
 administration.
+
+![IMG_0824](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157)
+
 
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
