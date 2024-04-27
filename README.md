@@ -36,6 +36,7 @@
 
 ## External Profiles
 [**View My LinkedIn**](https://www.linkedin.com/in/richardtmiles/)
+
 [**goto: miles.systems**](https://miles.systems/)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
