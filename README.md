@@ -1,3 +1,4 @@
+
 ## >> WHOAMI
 <!-- https://badges.pages.dev/ -->
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=fff&style=for-the-badge)
@@ -31,6 +32,14 @@
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=000&style=for-the-badge)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
+Lead developer and team manager for multiple directed studies guided by top UNT Principal Lecturers. Former
+TA at Southern Methodist University Coding Bootcamp. Business Professional of America State Qualifier in
+website design. Past Vice President of the University of North Texas Triathlon Club. A Windows, Ubuntu,
+FEDORA, RHEL, and MacOS power user + GCP / AWS cloud rockstar. PHP-SRC contributor, working on
+improving the PHP programming language from its C code internals. A LAMP (Linux, Apache, MySQL, PHP)
+veteran. Founder of www.CarbonORM.dev/, a multi-language library, to significantly speed up developer
+operations and data migrations. Over eight years of experience in application development and server
+administration.
 
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
