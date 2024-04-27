@@ -46,7 +46,8 @@ veteran. Founder of www.CarbonORM.dev/, a multi-language library, to significant
 operations and data migrations. Over eight years of experience in application development and server
 administration.
 
-![IMG_0824](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157)
+![237992608_1030623704143678_1084262147104376462_n](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3)
+
 
 
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
@@ -58,6 +59,8 @@ administration.
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
+
+![IMG_0824](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157)
 
 ![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) 
 
