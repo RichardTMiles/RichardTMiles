@@ -1,3 +1,4 @@
+![IMG_0775](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d7f0d114-c316-413b-9f5e-3049a897e152)
 
 ## >> WHOAMI
 <!-- https://badges.pages.dev/ -->
