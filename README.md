@@ -1,4 +1,4 @@
-![IMG_0775](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d7f0d114-c316-413b-9f5e-3049a897e152)
+![IMG_0824](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157)
 
 ## >> WHOAMI
 <!-- https://badges.pages.dev/ -->
@@ -37,7 +37,7 @@ Lead developer and team manager for multiple directed studies guided by top UNT 
 TA at Southern Methodist University Coding Bootcamp. Business Professional of America State Qualifier in
 website design. Past Vice President of the University of North Texas Triathlon Club. 
 
-![IMG_0635](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/96137a15-9cf7-4ae1-a736-1343ba494cc4)
+
 
 A Windows, Ubuntu,
 FEDORA, RHEL, and MacOS power user + GCP / AWS cloud rockstar. PHP-SRC contributor, working on
@@ -47,7 +47,6 @@ operations and data migrations. Over eight years of experience in application de
 administration.
 
 ![237992608_1030623704143678_1084262147104376462_n](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3)
-
 
 
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
@@ -60,7 +59,6 @@ administration.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
 
-![IMG_0824](https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157)
 
 ![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) 
 
