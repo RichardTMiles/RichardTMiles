@@ -33,6 +33,7 @@
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=000&style=for-the-badge)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/afddbaa3-fb19-4abf-aecb-d6168e0380f3.svg)](https://wakatime.com/@afddbaa3-fb19-4abf-aecb-d6168e0380f3)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/richardtmiles/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles)
 ![GitHub Stars](https://img.shields.io/github/stars/richardtmiles?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/richardtmiles?label=Followers&style=social)
