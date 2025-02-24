@@ -31,11 +31,12 @@
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=000&style=for-the-badge)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" style="width: 33%; height: 200px; object-fit: cover;" />
-    <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" style="width: 200px; height: auto; object-fit: cover;">
-    <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" style="width: 200px; height: auto; object-fit: cover;">
-</div>
+
+  <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" width="411px">
+  <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" width="274px">
+  <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" width="315px">
+
+
 
 
 Lead developer and team manager for multiple directed studies guided by top UNT Principal Lecturers. Business Professional of America State Qualifier in website design. Former Vice President of the University of North Texas Triathlon Team. A Windows and Linux (RHEL, CentOS, Ubuntu, Alpine, and Kali) power user + GCP / AWS cloud architect. PHP-SRC internals contributor, working on improving the PHP programming language from its C code internals. A LAMP (Linux, Apache, MySQL, PHP) veteran. Built CarbonORM.dev/, a set of libraries to significantly speed up developer operations and data migrations. Over eight years of experience in application development and server administration. Tenth overall in McKesson Technology's annual web hacking competition. Defcon Conference award winner in WiFi hacking competition Wall of Seep.
@@ -60,7 +61,7 @@ administration.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles"></img>
 
 
-![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact) 
+![Richard's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact)
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles" alt="visitors"/>
