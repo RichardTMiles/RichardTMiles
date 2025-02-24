@@ -1,6 +1,6 @@
 <div align="center">
 
-## >> WHOAMI
+## WHOAMI
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) <!-- Languages -->
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -100,8 +100,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/richardtmiles?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/richardtmiles?label=Followers&style=social)
 
-<img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" width="305px">
-<img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" width="204px">
+<img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" height="305px">
+<img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" height="305px">
 <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" width="235px">
 
 <p align="center">
@@ -114,11 +114,10 @@ Lead developer and team manager for multiple directed studies guided by top UNT 
 
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
-## External Profiles
-[**View My LinkedIn**](https://www.linkedin.com/in/RichardTMiles/) 
-[**goto: miles.systems**](https://miles.systems/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardtmiles\&include_all_commits=true) ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afddbaa3-fb19-4abf-aecb-d6168e0380f3)
+<p align="center">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=richardtmiles&include_all_commits=true" alt="Richard's GitHub Stats" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=afddbaa3-fb19-4abf-aecb-d6168e0380f3" alt="Richard's WakaTime stats" />
+</p>
 
 ![Sportify](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
 
