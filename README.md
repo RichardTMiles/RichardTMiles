@@ -1,3 +1,5 @@
+<div align="center">
+
 ## >> WHOAMI
 <!-- https://badges.pages.dev/ -->
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=fff&style=for-the-badge)
@@ -30,11 +32,12 @@
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff&style=for-the-badge)
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=000&style=for-the-badge)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles)
 
 
-  <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" width="411px">
-  <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" width="274px">
-  <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" width="315px">
+  <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" width="305px">
+  <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" width="204px">
+  <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" width="235px">
 
 
 
@@ -66,4 +69,6 @@ administration.
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles" alt="visitors"/>
 </p>
+
+</dev>
 
