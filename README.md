@@ -62,6 +62,8 @@ administration.
 [**goto: miles.systems**](https://miles.systems/)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardtmiles\&include_all_commits=true)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardtmiles)
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
