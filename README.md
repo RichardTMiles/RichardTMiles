@@ -58,12 +58,12 @@ administration.
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
 ## External Profiles
-[**View My LinkedIn**](https://www.linkedin.com/in/richardtmiles/) 
+[**View My LinkedIn**](https://www.linkedin.com/in/RichardTMiles/) 
 [**goto: miles.systems**](https://miles.systems/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardtmiles\&include_all_commits=true)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=richardtmiles)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RichardTMiles)
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
