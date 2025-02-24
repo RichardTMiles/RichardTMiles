@@ -36,10 +36,15 @@
 ![GitHub Stars](https://img.shields.io/github/stars/richardtmiles?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/richardtmiles?label=Followers&style=social)
 
-
 <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" width="305px">
 <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" width="204px">
 <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" width="235px">
+
+<p align="center">
+  <img height="115px" src="https://github-readme-stats.vercel.app/api?username=richardtmiles&show_icons=true&theme=radical&line_height=27" alt="Richard's GitHub Stats" />
+  <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact" alt="Richard's Top Languages" />
+  <img height="115px" src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="Richard's GitHub Streak" />
+</p>
 
 Lead developer and team manager for multiple directed studies guided by top UNT Principal Lecturers. Business Professional of America State Qualifier in website design. Former Vice President of the University of North Texas Triathlon Team. A Windows and Linux (RHEL, CentOS, Ubuntu, Alpine, and Kali) power user + GCP / AWS cloud architect. PHP-SRC internals contributor, working on improving the PHP programming language from its C code internals. A LAMP (Linux, Apache, MySQL, PHP) veteran. Built CarbonORM.dev/, a set of libraries to significantly speed up developer operations and data migrations. Over eight years of experience in application development and server administration. Tenth overall in McKesson Technology's annual web hacking competition. Defcon Conference award winner in WiFi hacking competition Wall of Seep.
 
@@ -57,11 +62,6 @@ administration.
 [**goto: miles.systems**](https://miles.systems/)
 
 
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=richardtmiles&show_icons=true&theme=radical&line_height=27" alt="Richard's GitHub Stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardtmiles&theme=radical&layout=compact" alt="Richard's Top Languages" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="Richard's GitHub Streak" />
-</p>
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
