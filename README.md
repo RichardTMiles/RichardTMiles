@@ -32,6 +32,7 @@
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff&style=for-the-badge)
 ![Apache Tomcat Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=000&style=for-the-badge)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+[![wakatime](https://wakatime.com/badge/user/afddbaa3-fb19-4abf-aecb-d6168e0380f3.svg)](https://wakatime.com/@afddbaa3-fb19-4abf-aecb-d6168e0380f3)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles)
 ![GitHub Stars](https://img.shields.io/github/stars/richardtmiles?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/richardtmiles?label=Followers&style=social)
@@ -63,8 +64,8 @@ administration.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardtmiles\&include_all_commits=true)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RichardTMiles)
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afddbaa3-fb19-4abf-aecb-d6168e0380f3)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
 
