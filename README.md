@@ -32,9 +32,9 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge)
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" style="width: 33%; height: auto; object-fit: cover;" />
-    <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" style="width: 33%; height: auto; object-fit: cover;">
-    <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" style="width: 33%; height: auto; object-fit: cover;">
+    <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" style="width: 33%; height: 200px; object-fit: cover;" />
+    <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" style="width: 200px; height: auto; object-fit: cover;">
+    <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" style="width: 200px; height: auto; object-fit: cover;">
 </div>
 
 
