@@ -112,19 +112,11 @@
 
 Lead developer and team manager for multiple directed studies guided by top UNT Principal Lecturers. Business Professional of America State Qualifier in website design. Former Vice President of the University of North Texas Triathlon Team. A Windows and Linux (RHEL, CentOS, Ubuntu, Alpine, and Kali) power user + GCP / AWS cloud architect. PHP-SRC internals contributor, working on improving the PHP programming language from its C code internals. A LAMP (Linux, Apache, MySQL, PHP) veteran. Built CarbonORM.dev/, a set of libraries to significantly speed up developer operations and data migrations. Over eight years of experience in application development and server administration. Tenth overall in McKesson Technology's annual web hacking competition. Defcon Conference award winner in WiFi hacking competition Wall of Seep.
 
-A Windows, Ubuntu,
-FEDORA, RHEL, and MacOS power user + GCP / AWS cloud rockstar. PHP-SRC contributor, working on
-improving the PHP programming language from its C code internals. A LAMP (Linux, Apache, MySQL, PHP)
-veteran. Founder of www.CarbonORM.dev/, a multi-language library, to significantly speed up developer
-operations and data migrations. Over eight years of experience in application development and server
-administration.
-
 [My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
 ## External Profiles
 [**View My LinkedIn**](https://www.linkedin.com/in/RichardTMiles/) 
 [**goto: miles.systems**](https://miles.systems/)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardtmiles\&include_all_commits=true) ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afddbaa3-fb19-4abf-aecb-d6168e0380f3)
 
