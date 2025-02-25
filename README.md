@@ -95,8 +95,7 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge) <!-- Adobe -->
 [![Miles.Systems](https://img.shields.io/website-up-down-green-red/http/miles.systems.svg)](https://miles.systems/) <!-- Sites -->
 [![CarbonORM.dev](https://img.shields.io/website-up-down-green-red/http/carbonorm.dev.svg)](https://shields.io/)
-[![wakatime](https://wakatime.com/badge/user/richardtmiles.svg)](https://wakatime.com/@richardtmiles) <!-- Profile Tracking -->
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/richardtmiles/)
+[![wakatime](https://wakatime.com/badge/user/afddbaa3-fb19-4abf-aecb-d6168e0380f3.svg?v2)](https://wakatime.com/@afddbaa3-fb19-4abf-aecb-d6168e0380f3)[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/richardtmiles/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles)
 ![GitHub Stars](https://img.shields.io/github/stars/richardtmiles?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/richardtmiles?label=Followers&style=social)
