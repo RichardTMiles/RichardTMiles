@@ -1,6 +1,7 @@
 <div align="center">
 
 ## WHOAMI
+
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) <!-- Languages -->
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -16,7 +17,7 @@
 [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#) 
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=fff&style=for-the-badge) <!-- Frameworks -->
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black)
@@ -94,9 +95,9 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=fff&style=for-the-badge) <!-- Adobe -->
 [![Miles.Systems](https://img.shields.io/website-up-down-green-red/http/miles.systems.svg)](https://miles.systems/) <!-- Sites -->
 [![CarbonORM.dev](https://img.shields.io/website-up-down-green-red/http/carbonorm.dev.svg)](https://shields.io/)
-[![wakatime](https://wakatime.com/badge/user/afddbaa3-fb19-4abf-aecb-d6168e0380f3.svg)](https://wakatime.com/@afddbaa3-fb19-4abf-aecb-d6168e0380f3) <!-- Profile Tracking -->
+[![wakatime](https://wakatime.com/badge/user/richardtmiles.svg)](https://wakatime.com/@richardtmiles) <!-- Profile Tracking -->
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/richardtmiles/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=richardtmiles.richardtmiles)
 ![GitHub Stars](https://img.shields.io/github/stars/richardtmiles?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/richardtmiles?label=Followers&style=social)
 
@@ -110,16 +111,24 @@
   <img height="115px" src="https://github-readme-streak-stats.herokuapp.com/?user=richardtmiles&show_icons=true&locale=en&layout=compact&theme=radical" alt="Richard's GitHub Streak" />
 </p>
 
-Lead developer and team manager for multiple directed studies guided by top UNT Principal Lecturers. Business Professional of America State Qualifier in website design. Former Vice President of the University of North Texas Triathlon Team. A Windows and Linux (RHEL, CentOS, Ubuntu, Alpine, and Kali) power user + GCP / AWS cloud architect. PHP-SRC internals contributor, working on improving the PHP programming language from its C code internals. A LAMP (Linux, Apache, MySQL, PHP) veteran. Built CarbonORM.dev/, a set of libraries to significantly speed up developer operations and data migrations. Over eight years of experience in application development and server administration. Tenth overall in McKesson Technology's annual web hacking competition. Defcon Conference award winner in WiFi hacking competition Wall of Seep.
+Lead developer and team manager for multiple directed studies guided by top UNT Principal Lecturers. Business
+Professional of America State Qualifier in website design. Former Vice President of the University of North Texas
+Triathlon Team. A Windows and Linux (RHEL, CentOS, Ubuntu, Alpine, and Kali) power user + GCP / AWS cloud architect.
+PHP-SRC internals contributor, working on improving the PHP programming language from its C code internals. A LAMP (
+Linux, Apache, MySQL, PHP) veteran. Built CarbonORM.dev/, a set of libraries to significantly speed up developer
+operations and data migrations. Over eight years of experience in application development and server administration.
+Tenth overall in McKesson Technology's annual web hacking competition. Defcon Conference award winner in WiFi hacking
+competition Wall of Seep.
 
-[My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new organization [CarbonORM](https://github.com/orgs/CarbonORM).
+[My C6 repositories](https://github.com/orgs/CarbonORM/repositories) have been moved to my new
+organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
 <p align="center">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=richardtmiles&include_all_commits=true" alt="Richard's GitHub Stats" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=afddbaa3-fb19-4abf-aecb-d6168e0380f3" alt="Richard's WakaTime stats" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=richardtmiles" alt="Richard's WakaTime stats" />
 </p>
 
-![Sportify](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
 
-</dev>
+</div>
 
