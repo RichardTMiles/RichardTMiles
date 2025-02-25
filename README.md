@@ -125,7 +125,7 @@ organization [CarbonORM](https://github.com/orgs/CarbonORM).
 
 <p align="center">
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=richardtmiles&include_all_commits=true" alt="Richard's GitHub Stats" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=richardtmiles" alt="Richard's WakaTime stats" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=richardtmiles&bump" alt="Richard's WakaTime stats" />
 </p>
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tmilesflo&unique={true|1|on|yes})
