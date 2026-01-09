@@ -100,6 +100,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/richardtmiles?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/richardtmiles?label=Followers&style=social)
 
+<iframe src="https://github.com/sponsors/RichardTMiles/card" title="Sponsor RichardTMiles" height="225" width="600" style="border: 0;"></iframe>
+
 <img src="https://github.com/user-attachments/assets/e2836dec-0639-404a-8b87-cde0a0e3e7b1" height="305px">
 <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/054cb8dc-7361-46f6-b6ac-f8c49d0e64b3" height="305px">
 <img src="https://github.com/RichardTMiles/RichardTMiles/assets/9538357/d9d9cbd4-7c98-421a-9cab-474de9ea3157" width="235px">
